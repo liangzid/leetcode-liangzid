@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "gnu11",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "D:/softWare/TDM-GCC/bin/gcc.exe"
+        }
+    ],
+    "version": 4
+}
